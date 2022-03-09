@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="preparation_title">Подготовка</string>
+    <string name="breath_title">Дыхание</string>
+    <string name="holding_title">Задержка</string>
+    <string name="sets_title">Сеты</string>
+</resources>
